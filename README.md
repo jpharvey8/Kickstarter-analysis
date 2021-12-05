@@ -25,4 +25,4 @@ Based on the Outcomes Based on Goals line graph, I can conclude campaigns with g
 
 Limitations that might have affected this dataset include: the cities that the campaigns took place in – Some cities have higher density and contributors make more/less income and the currency rate to USD from different countries might reflect more/less money contributed when converted.
 
-Another type of graph we could great for these data sets that might be visually beneficial would be a bar graph.
+Another type of graph we could great for these data sets that might be visually beneficial would be a stacked bar graph.
