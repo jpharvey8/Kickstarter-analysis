@@ -22,7 +22,7 @@ I also left out the "plays" criteria and was viewing data for all subcategories.
 
 Based on the Theatre Outcomes by Launch Date line graph, I can conclude that May is the best month to launch a campaign and December is the worst month to launch a campaign. 
 
-Based on the Outcomes Based on Goals line graph, I can conclude campaigns within the $15000 or less range are more likely to succeed than fail. 
+Based on the Outcomes Based on Goals line graph, I can conclude campaigns within the $15000 or less and $35000 to $44999 ranges are more likely to succeed than fail. 
 
 Limitations that might have affected this dataset include: the cities that the campaigns took place in – Some cities have higher density and contributors make more/less income and the currency rate to USD from different countries might reflect more/less money contributed when converted.
 
